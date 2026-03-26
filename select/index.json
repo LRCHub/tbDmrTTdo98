@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ヨミビトシラズ",
+  "base_artist": "Limonène、kamome sano、月島春果",
+  "createdAt": "2026-03-26T08:53:20.938660Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヨミビトシラズ",
+      "artist": "Limonène, kamome sano, 月島春果",
+      "has_synced": true,
+      "path": "select/01_ヨミビトシラズ_Limonène,_kamome_sano,_月島春果.lrc"
+    }
+  ]
+}
